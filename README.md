@@ -4,24 +4,24 @@ A GUI Based Project using C#. It was done as a project for Object Oriented Progr
 # Features
 Features for three types of users are following -
 
-•	Admin
-  o	Add/Remove Librarian(s) (CRUD)
-  o	View Inventory
+*	Admin
+  *	Add/Remove Librarian(s) (CRUD)
+  *	View Inventory
   
-•	Librarian
-  o	Add/Remove Books (CRUD)
-  o	Add/Remove Members (CRUD)
-  o	Issue Books
-  o	Return Books
-  o	Penalty
-  o	View Inventory
+*	Librarian
+  *	Add/Remove Books (CRUD)
+  *	Add/Remove Members (CRUD)
+  *	Issue Books
+  *	Return Books
+  *	Penalty
+  *	View Inventory
   
-•	Members
-  o	Change Account Credentials
-  o Book Status
-  o	Borrow/Buy Books
-  o	Penalty Status (if previous penalty not cleared then cannot issue new books)
-  o	View Inventory
+*	Members
+  *	Change Account Credentials
+  * Book Status
+  *	Borrow/Buy Books
+  *	Penalty Status (if previous penalty not cleared then cannot issue new books)
+  *	View Inventory
   
 # Project Contributors  
-  • Md. Muzakker Hossain (18-37801-2@student.aiub.edu)
+  * Md. Muzakker Hossain (18-37801-2@student.aiub.edu)
