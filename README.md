@@ -1,5 +1,5 @@
 # Library-Management-System
-A GUI Based Project using C#. It was done as a project for Object Oriented Programming-2 (C#) course during Fall-2020. The Library Management System was implemented using Windows Forms Application (WPF) and connected with a database created in Microsoft SQL Server.
+A GUI based project implementing OOP concepts using C#. It was completed as a project for Object-Oriented Programming-2 (C#) course during Fall-20. The Library Management System was implemented using Windows Forms Application (WPF) and connected with a database created in Microsoft SQL Server.
 
 # Features
 Features for three types of users are following -
